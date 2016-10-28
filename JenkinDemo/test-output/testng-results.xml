@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="70" started-at="2016-10-26T23:59:46Z" finished-at="2016-10-26T23:59:46Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="70" started-at="2016-10-26T23:59:46Z" finished-at="2016-10-26T23:59:46Z">
+      <class name="com.jenkins.JenkinsSelenium">
+        <test-method status="PASS" signature="beforeSuite()[pri:0, instance:com.jenkins.JenkinsSelenium@2cfb4a64]" name="beforeSuite" is-config="true" duration-ms="11245" started-at="2016-10-26T16:59:34Z" finished-at="2016-10-26T16:59:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeSuite -->
+        <test-method status="PASS" signature="verifyTitle()[pri:0, instance:com.jenkins.JenkinsSelenium@2cfb4a64]" name="verifyTitle" duration-ms="22" started-at="2016-10-26T16:59:46Z" finished-at="2016-10-26T16:59:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyTitle -->
+      </class> <!-- com.jenkins.JenkinsSelenium -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
